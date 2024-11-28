@@ -36,8 +36,8 @@ layout: two-cols
   </div>
   
   <div v-click class="link-item">
-     <a href="https://ngday24-nx.netlify.app" target="_blank" class="flex items-center gap-2">
-    <span class="text-xl">Slides 📽️: </span>ngday24-nx.netlify.app
+     <a href="https://react-nx.netlify.app" target="_blank" class="flex items-center gap-2">
+    <span class="text-xl">Slides 📽️: </span>react-nx.netlify.app
   </a>
   </div>
   

@@ -42,4 +42,4 @@ Building, Scaling, and Optimizing React Applications Made Simple
 <br>
 <br>
 
-### slides: ngday24-nx.netlify.app
+### slides: react-nx.netlify.app
