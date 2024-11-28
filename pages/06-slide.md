@@ -58,27 +58,18 @@ layout: default
         <i class="i-mdi-rocket-launch text-3xl text-blue-400"></i>
         <div class="ml-4">
           <h3 class="text-xl font-bold mb-2">Built for Scale</h3>
-          <p class="text-sm text-gray-400">
-            Optimized for large-scale development with distributed task execution and smart caching.
-          </p>
         </div>
       </div>
       <div v-click class="benefit-card">
         <i class="i-mdi-flash text-3xl text-yellow-400"></i>
         <div class="ml-4">
           <h3 class="text-xl font-bold mb-2">Lightning Fast</h3>
-          <p class="text-sm text-gray-400">
-            Accelerate your development and deployment pipeline with powerful cloud features.
-          </p>
         </div>
       </div>
       <div v-click class="benefit-card">
         <i class="i-mdi-chart-areaspline text-3xl text-green-400"></i>
         <div class="ml-4">
           <h3 class="text-xl font-bold mb-2">Intelligent Insights</h3>
-          <p class="text-sm text-gray-400">
-            Get detailed analytics and performance metrics for your development workflow.
-          </p>
         </div>
       </div>
     </div>
