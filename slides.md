@@ -53,6 +53,14 @@ src: ./pages/04-2-supercharge.md
 ---
 
 ---
+src: ./pages/04-3-extra-1.md
+---
+
+---
+src: ./pages/04-3-extra-2.md
+---
+
+---
 src: ./pages/05-slide.md
 ---
 
