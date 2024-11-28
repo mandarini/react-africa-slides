@@ -115,7 +115,3 @@ src: ./pages/17-slide.md
 ---
 src: ./pages/18-slide.md
 ---
-
----
-src: ./pages/19-slide.md
----
