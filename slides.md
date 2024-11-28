@@ -49,7 +49,7 @@ src: ./pages/04-1-features-2.md
 ---
 
 ---
-src: ./pages/04-2-slide.md
+src: ./pages/04-2-supercharge.md
 ---
 
 ---
