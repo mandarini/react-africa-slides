@@ -30,8 +30,8 @@ Building, Scaling, and Optimizing React Applications Made Simple
    <div class="text-4xl font-bold">+</div>
  <div class="w-32 h-32 bg-gray-200 dark:bg-gray-800 rounded flex items-center justify-center">
    <img 
-      src="../images/angular.png" 
-      alt="Angular logo" 
+      src="../images/react.png" 
+      alt="React logo" 
       class="max-w-full max-h-full object-contain"
     />
   </div>

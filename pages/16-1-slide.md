@@ -17,5 +17,5 @@ layout: center
 </div>
 
 <div class="absolute bottom-4 left-0 right-0 text-gray-400 text-sm text-center">
-  @psybercity - @psyber.city - @nx.dev - @NxDevTools - Katerina Skroumpelou - AngularDay2024
+  @psybercity - @psyber.city - @nx.dev - @NxDevTools - Katerina Skroumpelou - React Africa 2024
 </div>
