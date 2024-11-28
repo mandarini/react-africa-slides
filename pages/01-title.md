@@ -1,7 +1,7 @@
-# Nxify your Angular App
+# Revolutionize Your React dev flow with Nx
 
 <div class="text-xl text-gray-500 mt-4">
-How Nx Cloud Makes Angular Development and Deployment Faster
+Building, Scaling, and Optimizing React Applications Made Simple
 </div>
 
 <div class="mt-12">
