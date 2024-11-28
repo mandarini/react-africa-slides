@@ -19,7 +19,15 @@ layout: default
       </div>
       <!-- React Logo -->
       <div v-click class="react-logo">
-        <i class="i-logos-react text-4xl animate-spin-slow"></i>
+        <i class="i-logos-react text-4xl"></i>
+      </div>
+      <!-- Nx Logo -->
+      <div v-click class="nx-logo">
+        <img 
+          src="../images/nx.png" 
+          alt="Nx logo"
+          class="w-12 h-12 object-contain"
+        />
       </div>
       <!-- Connection Lines with Lightning Bolts -->
       <div v-click class="connection-lines">
@@ -80,7 +88,14 @@ layout: default
 }
 
 .react-logo {
-  @apply absolute -right-4 top-1/2 p-4 bg-[#61DAFB]/10 rounded-full;
+  @apply absolute -right-4 top-[45%] p-4 bg-[#61DAFB]/10 rounded-full;
+  transform-origin: center center;
+  animation: spin 20s linear infinite;
+}
+
+.nx-logo {
+  @apply absolute -left-4 top-[45%] p-4 bg-blue-500/10 rounded-full;
+  animation: bounce 3s infinite;
 }
 
 .connection-lines {
@@ -116,10 +131,6 @@ layout: default
 
 .benefit-card:hover {
   @apply transform -translate-y-1 shadow-xl border-blue-500/30;
-}
-
-.animate-spin-slow {
-  animation: spin 20s linear infinite;
 }
 
 @keyframes float {
