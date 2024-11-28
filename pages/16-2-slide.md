@@ -10,6 +10,8 @@ layout: default
   - Push change
   - Make PR
   - See Nx Cloud bot in PR
+  - See agents spinning up in Nx Cloud etc
+  - Clone repo - npm install - nx build - see remote cache
 
 ## Useful links
 
