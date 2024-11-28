@@ -1,0 +1,7 @@
+.slidev-layout {
+  @apply px-14 py-10;
+}
+
+h1 {
+  @apply text-4xl mb-4 font-bold;
+}
