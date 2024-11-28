@@ -61,10 +61,6 @@ src: ./pages/04-3-extra-2.md
 ---
 
 ---
-src: ./pages/05-slide.md
----
-
----
 src: ./pages/06-slide.md
 ---
 

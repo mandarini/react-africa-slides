@@ -32,7 +32,7 @@ layout: default
       />
       </div>
       <div class="text-sm text-center mt-4 text-gray-500">
-        Blue nodes indicate affected projects
+        Pink nodes indicate affected projects
       </div>
     </div>
   </div>
