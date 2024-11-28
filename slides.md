@@ -25,11 +25,11 @@ src: ./pages/02-2-credit.md
 ---
 
 ---
-src: ./pages/02-intro.md
+src: ./pages/02-3-scaling-optimizing.md
 ---
 
 ---
-src: ./pages/03-seamless.md
+src: ./pages/02-4-missing-piece.md
 ---
 
 ---
@@ -37,7 +37,19 @@ src: ./pages/03-1-cats.md
 ---
 
 ---
-src: ./pages/04-features.md
+src: ./pages/03-2-react-devs-love.md
+---
+
+---
+src: ./pages/04-1-features-1.md
+---
+
+---
+src: ./pages/04-1-features-2.md
+---
+
+---
+src: ./pages/04-2-slide.md
 ---
 
 ---
