@@ -15,8 +15,6 @@ layout: default
 
 ## Useful links
 
-- [https://github.com/mandarini/react-nx-africa-demo](https://github.com/mandarini/react-nx-africa-demo)
+- [https://github.com/mandarini/react-nx-africa-demo](https://github.com/mandarini/react-nx-africa-demo) 
+- [https://github.com/mandarini/vanilla-react-with-nx](https://github.com/mandarini/vanilla-react-with-nx)
 - [Nx Cloud for demo](https://staging.nx.app/orgs/66ec59aaf76d115a9da91166/workspaces/672ddb3aadf73e8380807171/overview)
-- [Affected project graph](https://snapshot.nx.app/cipes/672d93d0475a6d3bf6b00172/graph?runGroup=11736105600-1-linux-x86)
-- [Atomizer](https://staging.nx.app/runs/JgHM79T3Nk)
-

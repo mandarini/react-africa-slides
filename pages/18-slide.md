@@ -46,6 +46,11 @@ layout: two-cols
     <span class="text-xl">Demo 🦾: </span>github.com/mandarini/react-nx-africa-demo
   </a>
   </div>
+  <div v-click class="link-item">
+     <a href="https://github.com/mandarini/vanilla-react-with-nx" target="_blank" class="flex items-center gap-2">
+    <span class="text-xl">Vanilla React Demo 🦾: </span>github.com/mandarini/vanilla-react-with-nx
+  </a>
+  </div>
 
 </div>
 
